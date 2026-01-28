@@ -1,0 +1,62 @@
+{
+  "providerName": "First App",
+  "language": "en",
+  "lastUpdated": "2025-09-25T00:00:00Z",
+  "Series": [
+    {
+      "id": "movie-001",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "hls" }
+        ]
+      }
+    },   
+    {
+      "id": "movie-002",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "hls" }
+        ]
+      }
+    }, 
+    {
+      "id": "movie-003",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "hls" }
+        ]
+      }
+    }, 
+    {
+      "id": "movie-004",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "hls" }
+        ]
+      }
+    }, 
+     {
+      "id": "movie-005",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "hls" }
+        ]
+      }
+    }
+  ]
+}
