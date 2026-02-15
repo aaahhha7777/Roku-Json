@@ -10,7 +10,7 @@
       "thumbnail": "https://imgcdn.kim/poster/341/82156122.jpg",
       "content": {
         "videos": [
-          { "url": "", "videoType": "hls" }
+          { "url": "https://net52.cc/hls/82156122.m3u8?in=b6f1d71a745f131f37cea77c362adba3::ab4d58fcdac929b21b7a06f8dc1c9e59::1771131851::ua", "videoType": "hls" }
         ]
       }
     },   
