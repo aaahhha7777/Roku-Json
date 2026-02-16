@@ -16,12 +16,12 @@
     },   
     {
       "id": "movie-002",
-      "title": "",
+      "title": "ep2",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://imgcdn.kim/poster/341/80057281.jpg",
       "content": {
         "videos": [
-          { "url": "", "videoType": "hls" }
+          { "url": "https://net52.cc/hls/80077369.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::5e7be861d865d03f226684806dcd94c7::1771222911::ua", "videoType": "hls" }
         ]
       }
     }, 
