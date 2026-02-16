@@ -27,9 +27,9 @@
     }, 
     {
       "id": "movie-003",
-      "title": "",
+      "title": "ep3",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://imgcdn.kim/poster/341/80057281.jpg",
       "content": {
         "videos": [
           { "url": "https://net52.cc/hls/80077370.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::dc05042fbb6e50d72508dfc9f986b47b::1771226902::ua", "videoType": "hls" }
@@ -38,20 +38,20 @@
     }, 
     {
       "id": "movie-004",
-      "title": "",
+      "title": "ep4",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://imgcdn.kim/poster/341/80057281.jpg",
       "content": {
         "videos": [
-          { "url": "", "videoType": "hls" }
+          { "url": "https://net52.cc/hls/80077371.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::19b4532d66ae069db8b9830825764ce1::1771227092::ua", "videoType": "hls" }
         ]
       }
     }, 
      {
       "id": "movie-005",
-      "title": "",
+      "title": "ep5",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://imgcdn.kim/poster/341/80057281.jpg",
       "content": {
         "videos": [
           { "url": "", "videoType": "hls" }
