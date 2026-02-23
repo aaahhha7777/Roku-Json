@@ -71,23 +71,23 @@
     }, 
     {
       "id": "movie-006",
-      "title": "doraemon stachu",
+      "title": "dropbox",
       "genres": ["entertainment"],
       "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia800807.us.archive.org/30/items/doraemon-nobita-and-the-tin-labyrinth/Doraemon%20Nobita%20and%20the%20Tin%20Labyrinth%201080P%20FHD.mp4?cnt=0", "videoType": "mp4" }
+          { "url": "https://dl.dropboxusercontent.com/scl/fi/b40ehsohcejlljfcyr897/EP01-OMER-SERIES.mp4?rlkey=cvrc2u79hvzkpzx2bl0u0ydmf&e=2&st=afa9kwyk&dl=0", "videoType": "mp4" }
         ]
       }
     }, 
     {
       "id": "movie-030",
-      "title": "doraemon wind",
+      "title": "mega",
       "genres": ["entertainment"],
       "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia800700.us.archive.org/8/items/doraemon-nobita-and-the-windmasters/Doraemon%20Nobita%20and%20the%20Windmasters%201080P%20FHD.mp4?cnt=0", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     }
