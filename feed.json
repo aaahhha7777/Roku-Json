@@ -35,6 +35,17 @@
           { "url": "https://net52.cc/hls/80077370.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::dc05042fbb6e50d72508dfc9f986b47b::1771226902::ua", "videoType": "hls" }
         ]
       }
+    },
+      {
+      "id": "movie-004",
+      "title": "surah",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "https://stream.adilo.com/adilo-encoding/Sr2WXHdVSW2Jmod7/fRzD6CdG/hls/media-2/stream.m3u8", "videoType": "hls" }
+        ]
+      }
     }, 
     {
       "id": "movie-004",
