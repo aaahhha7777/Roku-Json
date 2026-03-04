@@ -37,24 +37,13 @@
       }
     },
       {
-      "id": "movie-010",
+      "id": "movie-004",
       "title": "surah",
       "genres": ["entertainment"],
       "thumbnail": "",
       "content": {
         "videos": [
           { "url": "https://stream.adilo.com/adilo-encoding/Sr2WXHdVSW2Jmod7/fRzD6CdG/hls/media-2/stream.m3u8", "videoType": "hls" }
-        ]
-      }
-    }, 
-    {
-      "id": "movie-004",
-      "title": "ep4",
-      "genres": ["entertainment"],
-      "thumbnail": "https://imgcdn.kim/poster/341/80057281.jpg",
-      "content": {
-        "videos": [
-          { "url": "https://net52.cc/hls/80077371.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::19b4532d66ae069db8b9830825764ce1::1771227092::ua", "videoType": "hls" }
         ]
       }
     }, 
@@ -71,6 +60,17 @@
     }, 
     {
       "id": "movie-006",
+      "title": "ep4",
+      "genres": ["entertainment"],
+      "thumbnail": "https://imgcdn.kim/poster/341/80057281.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://net52.cc/hls/80077371.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::19b4532d66ae069db8b9830825764ce1::1771227092::ua", "videoType": "hls" }
+        ]
+      }
+    }, 
+    {
+      "id": "movie-007",
       "title": "dropbox",
       "genres": ["entertainment"],
       "thumbnail": "",
@@ -79,7 +79,174 @@
           { "url": "https://dl.dropboxusercontent.com/scl/fi/b40ehsohcejlljfcyr897/EP01-OMER-SERIES.mp4?rlkey=cvrc2u79hvzkpzx2bl0u0ydmf&e=2&st=afa9kwyk&dl=0", "videoType": "mp4" }
         ]
       }
+    }
+  ],
+  "Doraemon: Movies.": [
+    {
+      "id": "movie-001",
+      "title": "Doraemon Nobita Little Space War",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2020/05/Doraemon-in-Nobitas-Little-Space-War-Movie-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-HD.jpg-990x557.png",
+      "content": {
+        "videos": [
+          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M01%20-%20Nobitas%20Little%20Star%20Wars.mp4", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-002",
+      "title": "Doraemon Great Adventure in the South Seas",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/10/Doraemon-in-Nobita%E2%80%99s-Great-Adventure-to-the-South-Seas-Hindi-Dubbed-Full-Movie-Download-720p-HD-990x557.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M02%20-Nobitas%20Great%20Adventure%20in%20the%20South%20Seas.mp4", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-003",
+      "title": "Doraemon Nobita and the Steel Troops",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/10/Doraemon-The-Movie-Nobita-and-the-Steel-Troops-New-Age-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-HD-990x557.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M03%20-%20Nobitas%20Steel%20Troops.mp4", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-004",
+      "title": "Doraemon Nobita's Dinosaur",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2020/12/Doraemon-The-Movie-%E2%80%93-Nobitas-Dinosaur-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-FHD-990x557.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M04%20-%20Nobitas%20Dinosaur.mp4", "videoType": "mpp4" }
+        ]
+      }
+    },
+   {
+      "id": "movie-005",
+      "title": "Doraemon Nobita’s Dorabian Nights",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2020/12/Doraemon-The-Movie-%E2%80%93-Nobitas-Dorabian-Nights-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-FHD-990x556.png",
+      "content": {
+        "videos": [
+          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M05%20-%20Nobitas%20Dorabian%20Nights.mp4", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-006",
+      "title": "Nobita and the Island of Miracle",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/10/Doraemon-The-Movie-Nobita-Aur-Jadooi-Tapu-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-HD-990x557.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M07%20-%20Nobita%20and%20the%20Island%20of%20Miracle.mp4", "videoType": "mp4" }
+        ]
+      }
+    },
+   {
+      "id": "movie-007",
+      "title": "Doraemon Nobita and the Tin Labyrinth",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2021/10/Doraemon-Movie-8-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-Khel-Khilona-Bhool-Bhulaiya.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M08%20-%20Nobita%20and%20the%20Tin%20Labyrinth.mp4", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-008",
+      "title": "Doraemon: Nobita’s New Great Adventure into the Underworld",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.app/wp-content/uploads/2019/10/Doraemon-The-Movie-%E2%80%93-Jadoo-Mantar-Aur-Jahnoom-Hindi-%E2%80%93-Tamil-FHD-990x556.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M10-%20Nobitas%20the%20Underworld.mp4", "videoType": "mp4" }
+        ]
+      }
+    },
+      {
+      "id": "movie-009",
+      "title": "Doraemon Nobita The Explorer Bow! Bow!",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/10/Doraemon-The-Movie-Nobita-The-Explorer-Bow-Bow-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Dubbed-Download-FHD-990x556.png",
+      "content": {
+        "videos": [
+          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M11-%20Nobitas%20Great%20Demon.mp4", "videoType": "mp4" }
+        ]
+      }
+    },  
+    {
+      "id": "movie-010",
+      "title": "Doraemon Adventures of Koya Koya Planet",
+      "genres": ["entertainment"],
+      "thumbnail": "https://i.pinimg.com/736x/7a/50/02/7a500207689b8bc079e68128a0cabefd.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M12-%20Nobitas%20Spaceblazer.mp4", "videoType": "mp4" }
+        ]
+      }
+    },
+      {
+      "id": "movie-011",
+      "title": "Doraemon Galaxy Super Express",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/10/Doraemon-The-Movie-%E2%80%93-Galaxy-Super-Express-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-FHD-990x557.png",
+      "content": {
+        "videos": [
+          { "url": "https://ia801704.us.archive.org/26/items/doraemon-galaxy-express/Doraemon%20Galaxy%20Super%20Express.mp4", "videoType": "mp4" }
+        ]
+      }
+    },  
+    {
+      "id": "movie-012",
+      "title": "Doraemon: Nobita and the Windmasters",
+      "genres": ["entertainment"],
+      "thumbnail": "https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSxUv73pa305hEiQwD3OW2clWc8vrEnXFEz2luqR1K1_36l0iYbD30pHJP1fwZK3hl41arIssujD0Kg1zedjiqPaywyPjbJMb2Gp.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M14-%20Nobita%20and%20the%20Windmasters.mp4", "videoType": "mp4" }
+        ]
+      }
+    },
+      {
+      "id": "movie-013",
+      "title": "Doraemon: Nobita’s Secret Gadget Museum",
+      "genres": ["entertainment"],
+      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/04/Doraemon-Gadget-Museum-Ka-Rahasya-990x556.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M15-%20Nobitas%20Secret%20Gadget%20Museum.mp4", "videoType": "mp4" }
+        ]
+      }
     }, 
+     {
+      "id": "movie-014",
+      "title": "Doraemon Nobita's New Dinosaur",
+      "genres": ["entertainment"],
+      "thumbnail": "https://raw.githubusercontent.com/aaahhha7777/Thumbnails/refs/heads/main/Dinosaur.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia802902.us.archive.org/5/items/doraemon-nobitas-new-dinosaur/Doraemon%20Nobita%27s%20New%20Dinosaur%201080p%20HD.mp4", "videoType": "mp4" }
+        ]
+      }
+    }, 
+       {
+      "id": "movie-015",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
     {
       "id": "movie-030",
       "title": "mega",
