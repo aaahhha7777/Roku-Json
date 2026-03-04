@@ -5,10 +5,9 @@
   "Series": [
     {
       "id": "movie-001",
-      "title": "Dhurandhar",
+      "title": "Doraemon Stand By Me!",
       "genres": ["entertainment"],
-      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2023/01/Doraemon-Stand-by-Me-Hindi-Dubbed-Download-Movie-17-990x556.jpg
-",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2023/01/Doraemon-Stand-by-Me-Hindi-Dubbed-Download-Movie-17-990x556.jpg",
       "content": {
         "videos": [
           { "url": "https://net52.cc/hls/80158156.m3u8?in=2b3ca3b8af1b3e3c8095c3040fc264a4::5e0c1d344837cc8bf6eb7014868dfb50::1772618456::ua", "videoType": "hls" }
