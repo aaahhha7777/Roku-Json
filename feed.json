@@ -7,10 +7,11 @@
       "id": "movie-001",
       "title": "Dhurandhar",
       "genres": ["entertainment"],
-      "thumbnail": "https://imgcdn.kim/poster/341/82156122.jpg",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2023/01/Doraemon-Stand-by-Me-Hindi-Dubbed-Download-Movie-17-990x556.jpg
+",
       "content": {
         "videos": [
-          { "url": "https://net52.cc/hls/80077368.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::f1c41697dc37638fd6b36ceb4257e5fb::1771220023::ua", "videoType": "hls" }
+          { "url": "https://net52.cc/hls/80158156.m3u8?in=2b3ca3b8af1b3e3c8095c3040fc264a4::5e0c1d344837cc8bf6eb7014868dfb50::1772618456::ua", "videoType": "hls" }
         ]
       }
     },   
