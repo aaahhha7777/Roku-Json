@@ -4,79 +4,321 @@
   "lastUpdated": "2025-09-25T00:00:00Z",
   "Series": [
     {
-      "id": "movie-001",
-      "title": "Doraemon Stand By Me!",
-      "genres": ["entertainment"],
-      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2023/01/Doraemon-Stand-by-Me-Hindi-Dubbed-Download-Movie-17-990x556.jpg",
+      "id": "episode-001",
+      "title": "Umar ibn Al-Khattāb Episode-1",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
       "content": {
         "videos": [
-          { "url": "https://net52.cc/hls/80158156.m3u8?in=2b3ca3b8af1b3e3c8095c3040fc264a4::5e0c1d344837cc8bf6eb7014868dfb50::1772618456::ua", "videoType": "hls" }
-        ]
-      }
-    },   
-    {
-      "id": "movie-002",
-      "title": "ep2",
-      "genres": ["entertainment"],
-      "thumbnail": "https://imgcdn.kim/poster/341/80057281.jpg",
-      "content": {
-        "videos": [
-          { "url": "https://net52.cc/hls/80077369.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::5e7be861d865d03f226684806dcd94c7::1771222911::ua", "videoType": "hls" }
-        ]
-      }
-    }, 
-    {
-      "id": "movie-003",
-      "title": "ep3",
-      "genres": ["entertainment"],
-      "thumbnail": "https://imgcdn.kim/poster/341/80057281.jpg",
-      "content": {
-        "videos": [
-          { "url": "https://net52.cc/hls/80077370.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::dc05042fbb6e50d72508dfc9f986b47b::1771226902::ua", "videoType": "hls" }
+          { "url": "https://ia800904.us.archive.org/22/items/omar-series-episode-1-in-urdu-translation/Omar%20Series%20-%20Episode%201%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
         ]
       }
     },
-      {
-      "id": "movie-004",
-      "title": "surah",
-      "genres": ["entertainment"],
-      "thumbnail": "",
+    {
+      "id": "episode-002",
+      "title": "Umar ibn Al-Khattāb Episode-2",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
       "content": {
         "videos": [
-          { "url": "https://stream.adilo.com/adilo-encoding/Sr2WXHdVSW2Jmod7/fRzD6CdG/hls/media-2/stream.m3u8", "videoType": "hls" }
+          { "url": "https://ia903107.us.archive.org/21/items/omar-series-episode-2-in-urdu-translation/Omar%20Series%20-%20Episode%202%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
         ]
       }
-    }, 
+    },
     {
-      "id": "movie-005",
-      "title": "ep4",
-      "genres": ["entertainment"],
-      "thumbnail": "https://imgcdn.kim/poster/341/80057281.jpg",
+      "id": "episode-003",
+      "title": "Umar ibn Al-Khattāb Episode-3",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
       "content": {
         "videos": [
-          { "url": "https://net52.cc/hls/80077371.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::19b4532d66ae069db8b9830825764ce1::1771227092::ua", "videoType": "hls" }
+          { "url": "https://ia801007.us.archive.org/34/items/omar-series-episode-3-in-urdu-translation/Omar%20Series%20-%20Episode%203%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
         ]
       }
-    }, 
+    },
     {
-      "id": "movie-006",
-      "title": "ep4",
-      "genres": ["entertainment"],
-      "thumbnail": "https://imgcdn.kim/poster/341/80057281.jpg",
+      "id": "episode-004",
+      "title": "Umar ibn Al-Khattāb Episode-4",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
       "content": {
         "videos": [
-          { "url": "https://net52.cc/hls/80077371.m3u8?in=dd1f487f1496bc7e4bd2e84a28a80215::19b4532d66ae069db8b9830825764ce1::1771227092::ua", "videoType": "hls" }
+          { "url": "https://ia800406.us.archive.org/28/items/omar-series-episode-4-in-urdu-translation/Omar%20Series%20-%20Episode%204%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
         ]
       }
-    }, 
+    },
     {
-      "id": "movie-007",
-      "title": "dropbox",
-      "genres": ["entertainment"],
-      "thumbnail": "",
+      "id": "episode-005",
+      "title": "Umar ibn Al-Khattāb Episode-5",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
       "content": {
         "videos": [
-          { "url": "https://dl.dropboxusercontent.com/scl/fi/b40ehsohcejlljfcyr897/EP01-OMER-SERIES.mp4?rlkey=cvrc2u79hvzkpzx2bl0u0ydmf&e=2&st=afa9kwyk&dl=0", "videoType": "mp4" }
+          { "url": "https://ia801203.us.archive.org/14/items/omar-series-episode-5-in-urdu-translation/Omar%20Series%20-%20Episode%205%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-006",
+      "title": "Umar ibn Al-Khattāb Episode-6",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800905.us.archive.org/34/items/omar-series-episode-6-in-urdu-translation/Omar%20Series%20-%20Episode%206%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-007",
+      "title": "Umar ibn Al-Khattāb Episode-7",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia801407.us.archive.org/19/items/omar-series-episode-7-in-urdu-translation/Omar%20Series%20-%20Episode%207%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-008",
+      "title": "Umar ibn Al-Khattāb Episode-8",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia601004.us.archive.org/19/items/omar-series-episode-8-in-urdu-translation/Omar%20Series%20-%20Episode%208%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-009",
+      "title": "Umar ibn Al-Khattāb Episode-9",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia803206.us.archive.org/25/items/omar-series-episode-9-in-urdu-translation/Omar%20Series%20-%20Episode%209%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-010",
+      "title": "Umar ibn Al-Khattāb Episode-10",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800905.us.archive.org/11/items/omar-series-episode-10-in-urdu-translation/Omar%20Series%20-%20Episode%2010%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-011",
+      "title": "Umar ibn Al-Khattāb Episode-11",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia601004.us.archive.org/26/items/omar-series-episode-11-in-urdu-translation/Omar%20Series%20-%20Episode%2011%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-012",
+      "title": "Umar ibn Al-Khattāb Episode-12",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia600408.us.archive.org/11/items/omar-series-episode-12-in-urdu-translation/Omar%20Series%20-%20Episode%2012%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-013",
+      "title": "Umar ibn Al-Khattāb Episode-13",
+      "genres": ["regilus"],
+      "thumbnail":"https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia904508.us.archive.org/10/items/omar-series-episode-13-in-urdu-translation/Omar%20Series%20-%20Episode%2013%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-014",
+      "title": "Umar ibn Al-Khattāb Episode-14",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia801701.us.archive.org/2/items/omar-series-episode-14-in-urdu-translation/Omar%20Series%20-%20Episode%2014%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-015",
+      "title": "Umar ibn Al-Khattāb Episode-15",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800905.us.archive.org/10/items/omar-series-episode-15-in-urdu-translation/Omar%20Series%20-%20Episode%2015%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-016",
+      "title": "Umar ibn Al-Khattāb Episode-16",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia804608.us.archive.org/19/items/omar-series-episode-16-in-urdu-translation/Omar%20Series%20-%20Episode%2016%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-017",
+      "title": "Umar ibn Al-Khattāb Episode-17",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia601403.us.archive.org/19/items/omar-series-episode-17-in-urdu-translation/Omar%20Series%20-%20Episode%2017%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-018",
+      "title": "Umar ibn Al-Khattāb Episode-18",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800900.us.archive.org/18/items/omar-series-episode-18-in-urdu-translation/Omar%20Series%20-%20Episode%2018%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-019",
+      "title": "Umar ibn Al-Khattāb Episode-19",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia801005.us.archive.org/5/items/omar-series-episode-19-in-urdu-translation/Omar%20Series%20-%20Episode%2019%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-020",
+      "title": "Umar ibn Al-Khattāb Episode-20",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800901.us.archive.org/16/items/omar-series-episode-20-in-urdu-translation/Omar%20Series%20-%20Episode%2020%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-021",
+      "title": "Umar ibn Al-Khattāb Episode-21",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia902903.us.archive.org/31/items/omar-series-episode-21-in-urdu-translation/Omar%20Series%20-%20Episode%2021%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-022",
+      "title": "Umar ibn Al-Khattāb Episode-22",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia801805.us.archive.org/14/items/omar-series-episode-22-in-urdu-translation/Omar%20Series%20-%20Episode%2022%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-023",
+      "title": "Umar ibn Al-Khattāb Episode-23",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia801807.us.archive.org/18/items/omar-series-episode-23-in-urdu-translation/Omar%20Series%20-%20Episode%2023%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-024",
+      "title": "Umar ibn Al-Khattāb Episode-24",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia801008.us.archive.org/28/items/omar-series-episode-24-in-urdu-translation/Omar%20Series%20-%20Episode%2024%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-025",
+      "title": "Umar ibn Al-Khattāb Episode-25",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia803406.us.archive.org/11/items/omar-series-episode-25-in-urdu-translation/Omar%20Series%20-%20Episode%2025%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-026",
+      "title": "Umar ibn Al-Khattāb Episode-26",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia802905.us.archive.org/31/items/omar-series-episode-26-in-urdu-translation/Omar%20Series%20-%20Episode%2026%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-027",
+      "title": "Umar ibn Al-Khattāb Episode-27",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800902.us.archive.org/5/items/omar-series-episode-27-in-urdu-translation/Omar%20Series%20-%20Episode%2027%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-028",
+      "title": "Umar ibn Al-Khattāb Episode-28",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia800405.us.archive.org/32/items/omar-series-episode-28-in-urdu-translation/Omar%20Series%20-%20Episode%2028%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "episode-029",
+      "title": "Umar ibn Al-Khattāb Episode-29",
+      "genres": ["regilus"],
+      "thumbnail": "https://deenspiration.com/wp-content/uploads/2020/07/omar-ibn-al-khattab-facts.jpg",
+      "content": {
+        "videos": [
+          { "url": "https://ia601405.us.archive.org/27/items/omar-series-episode-29-in-urdu-translation/Omar%20Series%20-%20Episode%2029%20in%20Urdu%20Translation.mp4?cnt=0", "videoType": "mp4" }
         ]
       }
     }
@@ -84,172 +326,326 @@
   "Doraemon: Movies.": [
     {
       "id": "movie-001",
-      "title": "Doraemon Nobita Little Space War",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2020/05/Doraemon-in-Nobitas-Little-Space-War-Movie-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-HD.jpg-990x557.png",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M01%20-%20Nobitas%20Little%20Star%20Wars.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
     {
       "id": "movie-002",
-      "title": "Doraemon Great Adventure in the South Seas",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/10/Doraemon-in-Nobita%E2%80%99s-Great-Adventure-to-the-South-Seas-Hindi-Dubbed-Full-Movie-Download-720p-HD-990x557.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M02%20-Nobitas%20Great%20Adventure%20in%20the%20South%20Seas.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
     {
       "id": "movie-003",
-      "title": "Doraemon Nobita and the Steel Troops",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/10/Doraemon-The-Movie-Nobita-and-the-Steel-Troops-New-Age-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-HD-990x557.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M03%20-%20Nobitas%20Steel%20Troops.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
     {
       "id": "movie-004",
-      "title": "Doraemon Nobita's Dinosaur",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2020/12/Doraemon-The-Movie-%E2%80%93-Nobitas-Dinosaur-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-FHD-990x557.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M04%20-%20Nobitas%20Dinosaur.mp4", "videoType": "mpp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
-   {
+    {
       "id": "movie-005",
-      "title": "Doraemon Nobita’s Dorabian Nights",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2020/12/Doraemon-The-Movie-%E2%80%93-Nobitas-Dorabian-Nights-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-FHD-990x556.png",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M05%20-%20Nobitas%20Dorabian%20Nights.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
     {
       "id": "movie-006",
-      "title": "Nobita and the Island of Miracle",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/10/Doraemon-The-Movie-Nobita-Aur-Jadooi-Tapu-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-HD-990x557.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M07%20-%20Nobita%20and%20the%20Island%20of%20Miracle.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
-   {
+    {
       "id": "movie-007",
-      "title": "Doraemon Nobita and the Tin Labyrinth",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2021/10/Doraemon-Movie-8-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-Khel-Khilona-Bhool-Bhulaiya.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M08%20-%20Nobita%20and%20the%20Tin%20Labyrinth.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
     {
       "id": "movie-008",
-      "title": "Doraemon: Nobita’s New Great Adventure into the Underworld",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.app/wp-content/uploads/2019/10/Doraemon-The-Movie-%E2%80%93-Jadoo-Mantar-Aur-Jahnoom-Hindi-%E2%80%93-Tamil-FHD-990x556.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M10-%20Nobitas%20the%20Underworld.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
-      {
+    {
       "id": "movie-009",
-      "title": "Doraemon Nobita The Explorer Bow! Bow!",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/10/Doraemon-The-Movie-Nobita-The-Explorer-Bow-Bow-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Dubbed-Download-FHD-990x556.png",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M11-%20Nobitas%20Great%20Demon.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
-    },  
+    },
     {
       "id": "movie-010",
-      "title": "Doraemon Adventures of Koya Koya Planet",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://i.pinimg.com/736x/7a/50/02/7a500207689b8bc079e68128a0cabefd.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M12-%20Nobitas%20Spaceblazer.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
-      {
+    {
       "id": "movie-011",
-      "title": "Doraemon Galaxy Super Express",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/10/Doraemon-The-Movie-%E2%80%93-Galaxy-Super-Express-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-FHD-990x557.png",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia801704.us.archive.org/26/items/doraemon-galaxy-express/Doraemon%20Galaxy%20Super%20Express.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
-    },  
+    },
     {
       "id": "movie-012",
-      "title": "Doraemon: Nobita and the Windmasters",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSxUv73pa305hEiQwD3OW2clWc8vrEnXFEz2luqR1K1_36l0iYbD30pHJP1fwZK3hl41arIssujD0Kg1zedjiqPaywyPjbJMb2Gp.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia800709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M14-%20Nobita%20and%20the%20Windmasters.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
-      {
+    {
       "id": "movie-013",
-      "title": "Doraemon: Nobita’s Secret Gadget Museum",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://www.rareanimes.co/wp-content/uploads/2019/04/Doraemon-Gadget-Museum-Ka-Rahasya-990x556.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia600709.us.archive.org/11/items/DM_MOVIES_MAK/C%3A/Users/Md%20Asim%20kareem/Downloads/DORAEMON_ALL_EPISODES_HINDI/DORAEMON_ALL_MOVIES/M15-%20Nobitas%20Secret%20Gadget%20Museum.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
-    }, 
-     {
+    },
+    {
       "id": "movie-014",
-      "title": "Doraemon Nobita's New Dinosaur",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://raw.githubusercontent.com/aaahhha7777/Thumbnails/refs/heads/main/Dinosaur.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia802902.us.archive.org/5/items/doraemon-nobitas-new-dinosaur/Doraemon%20Nobita%27s%20New%20Dinosaur%201080p%20HD.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
         ]
       }
-    }, 
-       {
+    },
+    {
       "id": "movie-015",
-      "title": "Doraemon Stand By Me 2",
+      "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "https://wallpapercave.com/wp/wp8375461.jpg",
+      "thumbnail": "",
       "content": {
         "videos": [
-          { "url": "https://ia803201.us.archive.org/25/items/doraemon-nobita-stand-by-me-2/M32%20-%20Doraemon%20Stand%20by%20Me%202%201080P%20FHD.mp4", "videoType": "mp4" }
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-016",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-017",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-018",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-019",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-020",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-021",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-022",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-023",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-024",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-025",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-026",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-027",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-028",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
+        ]
+      }
+    },
+    {
+      "id": "movie-029",
+      "title": "",
+      "genres": ["entertainment"],
+      "thumbnail": "",
+      "content": {
+        "videos": [
+          { "url": "", "videoType": "mp4" }
         ]
       }
     },
     {
       "id": "movie-030",
-      "title": "mega",
+      "title": "",
       "genres": ["entertainment"],
       "thumbnail": "",
       "content": {
