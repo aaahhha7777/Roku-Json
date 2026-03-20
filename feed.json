@@ -326,9 +326,9 @@
   "Doraemon: Movies.": [
     {
       "id": "movie-001",
-      "title": "",
+      "title": "Doraemon Underwater Adventure",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2020/09/Doraemon-The-Movie-Nobita-and-the-Underwater-Adventure-HindiTamilTelugu-RareToonsIndia.jpg?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://ia801507.us.archive.org/6/items/doraemon-nobita-and-the-castle-of-the-undersea-devil/Doraemon%20-%20Movie%2004%20-%20Nobita%20and%20the%20Castle%20of%20the%20Undersea%20Devil%20%281983%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -339,7 +339,7 @@
       "id": "movie-002",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2020/05/Doraemon-in-Nobitas-Little-Space-War-Movie-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-HD.jpg-990x556.png",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobitas-little-star-war/Doraemon%20-%20Movie%2006%20-%20Nobita%27s%20Little%20Star%20Wars%20%281985%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -350,7 +350,7 @@
       "id": "movie-003",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2020/08/Doraemon-The-Movie-%E2%80%93-Dinosaur-Yoddhha-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-FHD-990x556.jpg?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobita-and-the-knights-on-dinosaurs/Doraemon%20-%20Movie%2008%20-%20Nobita%20and%20the%20Knights%20on%20Dinosaurs%20%281987%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -361,7 +361,7 @@
       "id": "movie-004",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2019/10/81044903-990x556.jpg?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-the-record-of-nobitas-parallel-journey-to-the-west/Doraemon%20-%20Movie%2009%20-%20The%20Record%20of%20Nobita%27s%20Parallel%20Journey%20to%20the%20West%20%281988%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -372,7 +372,7 @@
       "id": "movie-005",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2020/12/Doraemon-The-Movie-%E2%80%93-Nobita-And-Jungle-Mein-Dangal-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-FHD-990x556.jpg?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobita-and-the-animal-planet/Doraemon%20-%20Movie%2011%20-%20Nobita%20and%20the%20Animal%20Planet%20%281990%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -383,7 +383,7 @@
       "id": "movie-006",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2020/12/Doraemon-The-Movie-%E2%80%93-Nobitas-Dorabian-Nights-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-FHD-990x556.png?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobitas-dorabian-night/Doraemon%20-%20Movie%2012%20-%20Nobita%27s%20Dorabian%20Nights%20%281991%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -394,7 +394,7 @@
       "id": "movie-007",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2019/10/Doraemon-The-Movie-%E2%80%93-Nobita-In-Jannat-No.1-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-FHD-990x556.png?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobita-and-the-kingdom-of-cloud/Doraemon%20-%20Movie%2013%20-%20Nobita%20and%20the%20Kingdom%20of%20Clouds%20%281992%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -416,7 +416,7 @@
       "id": "movie-009",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2021/10/Doraemon-Movie-8-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-Khel-Khilona-Bhool-Bhulaiya-990x556.jpg?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobita-and-the-tin/Doraemon%20-%20Movie%2014%20-%20Nobita%20and%20the%20Tin%20Labyrinth%20%281993%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -427,7 +427,7 @@
       "id": "movie-010",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2019/10/Doraemon-The-Movie-%E2%80%93-Galaxy-Super-Express-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-FHD-990x556.png?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-galaxy-express/Doraemon%20Galaxy%20Super%20Express.ia.mp4", "videoType": "mp4" }
@@ -438,7 +438,7 @@
       "id": "movie-011",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2019/10/Doraemon-The-Movie-%E2%80%93-Nobita-Ki-Nayi-Duniya-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Dubbed-Download-FHD-990x556.png?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobitas-diary-on-the-creation-of-the-world/Doraemon%20-%20Movie%2016%20-%20Nobita%27s%20Diary%20on%20the%20Creation%20of%20the%20World%20%281995%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -460,7 +460,7 @@
       "id": "movie-013",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2019/10/Doraemon-The-Movie-%E2%80%93-Jadoo-Mantar-Aur-Jahnoom-Hindi-%E2%80%93-Tamil-FHD-990x556.jpg?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobitas-new-great-adventure-into-the-underworld/Doraemon%20-%20Movie%2027%20-%20Nobita%27s%20New%20Great%20Adventure%20into%20the%20Underworld%20%282007%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -548,7 +548,7 @@
       "id": "movie-021",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2019/10/Doraemon-and-Adventures-of-Koya-Koya-Planet-Movie-Hindi-Tamil-Download-FHD-990x556.png?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-he-new-record-of-nobitas-spaceblazer/Doraemon%20-%20Movie%2029%20-%20The%20New%20Record%20of%20Nobita%27s%20Spaceblazer%20%282009%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -559,7 +559,7 @@
       "id": "movie-022",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://img.rareanimes.app/wp-content/uploads/2019/10/Doraemon-The-Movie-Nobita-Aur-Jadooi-Tapu-Hindi-%E2%80%93-Tamil-%E2%80%93-Telugu-Download-HD-990x556.jpg?output=webp&il=1&maxage=1y&cbg=white&q=60",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobita-and-the-island-of-miracles-animal-adventure/Doraemon%20-%20Movie%2032%20-%20Nobita%20and%20the%20Island%20of%20Miracles%E2%80%94Animal%20Adventure%20%282012%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -570,7 +570,7 @@
       "id": "movie-023",
       "title": "",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://i.imgur.com/MfXWldN.jpeg",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-movie-33-nobitas-secret-gadget-museum-2013-720p-multi-audio/Doraemon%20-%20Movie%2033%20-%20Nobita%27s%20Secret%20Gadget%20Museum%20%282013%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -590,9 +590,9 @@
     },
     {
       "id": "movie-025",
-      "title": "",
+      "title": "Doraemon Nobita’s Space Heroes",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://i.imgur.com/jMVYlzK.jpeg",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobitas-space-heroes/Doraemon%20-%20Movie%2035%20-%20Nobita%27s%20Space%20Heroes%20%282015%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4", "videoType": "mp4" }
@@ -623,9 +623,9 @@
     },
     {
       "id": "movie-028",
-      "title": "",
+      "title": "Doraemon the Movie: Nobita’s New Dinosaur",
       "genres": ["entertainment"],
-      "thumbnail": "",
+      "thumbnail": "https://iili.io/fGy8QiG.jpg",
       "content": {
         "videos": [
           { "url": "https://archive.org/download/doraemon-nobitas-new-dinosaur/Doraemon%20Nobita%27s%20New%20Dinosaur%201080p%20HD.mp4", "videoType": "mp4" }
