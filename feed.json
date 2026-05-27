@@ -794,11 +794,11 @@
       "genres": [
         "entertainment"
       ],
-      "thumbnail": "http://is-m.duckdns.org/Movies/Animated/Kung%20Fu%20Panda%201%20%5B2008%5D.mp4",
+      "thumbnail": "https://tv.imgcdn.kim/newtv/hls/hs/1660000046.m3u8",
       "content": {
         "videos": [
           {
-            "url": "http://is-m.duckdns.org/Movies/Animated/Kung%20Fu%20Panda%201%20%5B2008%5D.mp4",
+            "url": "https://tv.imgcdn.kim/newtv/hls/hs/1660000046.m3u8",
             "videoType": "mp4"
           }
         ]
