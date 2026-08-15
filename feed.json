@@ -5,7 +5,7 @@
   "Netflix": [
     {
       "id": "netflix-1779878725757",
-      "title": "Spider Man NO WAY HOME",
+      "title": "test",
       "shortDescription": "",
       "longDescription": "",
       "releaseDate": "",
@@ -22,8 +22,8 @@
         "language": "en-us",
         "videos": [
           {
-            "url": "https://tv.imgcdn.kim/newtv/hls/nf/81465707.m3u8",
-            "videoType": "hls",
+            "url": "https://wfbrcpgcgcwjrqh.groovy.monster/download/AQIzL2H3LGL2AGIvMwD5BGIxZGZ4AGL2MGN5MGDjMzVjBTD4AQOuZzVlZmMzL2AyMGR3BTD4ZwZ5AmpjMzMuBP4gEx5OLwWmDKuhp09ZMHj3rH9OHJy3Yx1wYF1XAHgeIacCYJASZmu0HaqxEJAULycInGSMo2S5ozkTpmEOFxb4p291oHqfqHSBBTS6Hy9kExA6p290q0V/MGL3BQuyLmEwBTHjLmNjZGV3ZzLmMTZmLJHjZwWzBQtkAmSuMzSuLJWxZwpmBJIyMwIwAwN5LmSzAGRmZQZjLv5SH2cAHRkaoTkAMl1frxx0rTISnHqEYxSxDmSsqxkEASISJyS0FmAmJGS5JKSXDl1OpUxlAxEJnHALHxEEDaMhoQH2oTIjHSqjrwqIAzAkMGAvpz4go0L/ZQL2MwL3MGSxBTH0Z2SvMTEzMQWxMTL2MTZmMTAwZQL0ZGV5L2MvLmIvAQuzMJAwZTHlMGp2ZQH4LGx4Z2EvLv53H1AWp014DzSRMGOnLx1kHHj2LacaYwAnD1L2paAvDJcSATD1GRMGBSSnFUqSMJkUJUqmpyAUZSWXoTb4HUMLFGO5Z0g5ImOWLxf4D1RgA0V5nIuaL1V",
+            "videoType": "mp4",
             "quality": "HD"
           }
         ]
@@ -31,7 +31,7 @@
     },
     {
       "id": "netflix-1779878789116",
-      "title": "Spider Man Far From HOME",
+      "title": "test real",
       "shortDescription": "",
       "longDescription": "",
       "releaseDate": "",
@@ -48,8 +48,8 @@
         "language": "en-us",
         "videos": [
           {
-            "url": "https://tv.imgcdn.kim/newtv/hls/nf/81055822.m3u8",
-            "videoType": "hls",
+            "url": "https://ia800103.us.archive.org/13/items/doraemon-nobitas-space-heroes/Doraemon%20-%20Movie%2035%20-%20Nobita%27s%20Space%20Heroes%20%282015%29%20%5B720p%5D%20%5BMulti-Audio%5D.ia.mp4",
+            "videoType": "mp4",
             "quality": "HD"
           }
         ]
