@@ -2,15 +2,13 @@
   "appInfo": {
     "appName": "",
     "logoUrl": "",
-    "defaultLanguage": "hi",
+    "defaultLanguage": "en",
     "lastUpdated": ""
   },
   "languages": [
-    {
-      "code": "hi",
-      "label": "Hindi"
-    }
-  ],
+  { "code": "en", "label": "English" },
+  { "code": "hi", "label": "Hindi" }
+],
   "genres": [
     "Action",
     "Comedy",
@@ -84,14 +82,14 @@
       "title": "Doraemon",
       "shortDescription": "A robotic cat travels back from the 22nd century to help a boy named Nobita.",
       "description": "Doraemon is a robotic cat sent back in time from the 22nd century by Sewashi to help his accident-prone great-great-grandfather Nobita Nobi, using an array of futuristic gadgets pulled from his 4-dimensional pocket.",
-      "posterUrl": "",
-      "thumbnailUrl": "",
-      "bannerUrl": "",
+      "posterUrl": "https://image.tmdb.org/t/p/w440_and_h660_face/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/aaahhha7777/Thumbnails/refs/heads/main/image_f4bdb108.png",
+      "bannerUrl": "https://raw.githubusercontent.com/aaahhha7777/Thumbnails/refs/heads/main/image_f4bdb108.png",
       "trailerUrl": "",
       "videoUrl": "",
       "year": 1979,
-      "releaseDate": "",
-      "runtimeMinutes": null,
+      "releaseDate": "(1979)",
+      "runtimeMinutes": 22,
       "contentRating": "TV-Y7",
       "ageGroup": "Kids",
       "genres": [
@@ -109,9 +107,9 @@
       "cast": [],
       "director": "",
       "studio": "",
-      "isFeatured": false,
+      "isFeatured": true,
       "isNew": false,
-      "isTrending": false,
+      "isTrending": true,
       "seasons": [
         {
           "seasonNumber": 1,
@@ -123,7 +121,7 @@
               "title": "Episode 1",
               "description": "",
               "thumbnailUrl": "",
-              "videoUrl": "",
+              "videoUrl": "https://api.kartoons.me/api/cloudstream/proxy/h3UsYQyn.m3u8",
               "runtimeMinutes": null,
               "airDate": ""
             },
