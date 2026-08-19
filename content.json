@@ -1,9 +1,9 @@
 {
   "appInfo": {
-    "appName": "",
+    "appName": "basic app",
     "logoUrl": "",
-    "defaultLanguage": "en",
-    "lastUpdated": ""
+    "defaultLanguage": "en-US",
+    "lastUpdated": "2026-05-27T11:02:44.467Z"
   },
   "languages": [
   { "code": "en", "label": "English" },
